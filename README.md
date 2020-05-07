@@ -2,6 +2,8 @@
 
 Sagittal view of MNI2009b template modified in Inkscape.
 
+[![AFIDs-macaca](https://raw.githubusercontent.com/afids/afids-hbm2019-cover/master/hbm_cover_for_github.png)](./hbm_cover_for_github.png)
+
 ## References
 
 * **AFIDS cover:** Lau JC, Parrent AG, Demarco J, Gupta G, Kai J, Stanley OW, Kuehn T, Park PJ, Ferko K, Khan AR, Peters TM. 2019. Cover Image. Hum Brain Mapp 40. doi:10.1002/hbm.24293
